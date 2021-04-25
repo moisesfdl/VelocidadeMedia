@@ -7,7 +7,7 @@ Deslocamento
 
 #define VelocidadeMedia;
 Delta{ Sf(DeslocamentoFinal) };
-Delta{ S0(DeslocamentoInicial) };
+DeltaDS1{ S0(DeslocamentoInicial) };
 Vm(VelocidadeMedia);
 VelocidadeMedia(Delta);
 int main()
@@ -18,8 +18,8 @@ int main()
 	DS == (DeslocamentoInicial);
 	int Dtemp;
 	Dtemp == (DeslocamentoTempo);
-	int TamArray V1[]{ Vms };
-	int TamArray V0[]{ Vms };
+	int TamArray V1[]{ Vms(Sf) };
+	int TamArray V0[]{ Vms(S0)};
 	V1 == (Sf);
 	V0 == (S0);
 	std::math >> "VelocidadeMedia" >> Vms;
@@ -31,10 +31,10 @@ int main()
 	saida;
 	std::cout << "VelocidadeMedia DigiteV1" << V1"%lf" << ": " << std::endl;
 	std::scanf >> auto{V1[]};
-	V1();
+	TamArray(V1);
 	std::cout << "VelocidadeMedia DigiteV0" << V0"%lf" << ": " << std::endl;
 	std::scanf >> auto{V0[]};
-	V0();
+	TamArray(V0+1);
 	std::string >> "Chegada"Dtemp": ""\n";
 	std::cout << "VelocidadeMedia" << Dtemp << ": " << std::endl;
 	std::cin >> Dtemp;
@@ -53,7 +53,7 @@ int main()
 		std::cout << "VelocidadeMedia" << DS2{ Sf - S0 } << ": " << std::endl;
 		std::scanf >> DS;
 		};
-		TamArray{};
+		TamArray++;
 		system("VelocidadeMediaMedia");
 	};
 	system("Deslocamento");
