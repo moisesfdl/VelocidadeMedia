@@ -52,8 +52,8 @@ int main()
 	TamArray(V0+1);
 	std::string >> Dtemp;
 	std::cout << "VelocidadeMedia" << Dtemp(Watch) << ": " << std::endl;
-	std::cout << "VelocidadeMedia" << Watch(hour1[]) << ": " << std::fixed << auto(hour0) << ": " << std::endl;
-	std::scanf >> auto{hour0[]};
+	std::cout << "VelocidadeMedia" << Watch(hour1[]) << ": " << "Dtemp" << std::fixed << auto{hour0} << ": " << std::endl;
+	std::scanf >> hour0[];
 	Dtemp;
 	Chegada(Dtemp);
 	for (DS i = 0; i < Vm; i++)
