@@ -29,10 +29,10 @@ int main()
 	std::cin >> DS1((km1)saida)[];
 	std::cin >> DS2[]
 	saida;
-	std::cout << "VelocidadeMedia DigiteV1" << V1"%lf" << ": " << std::endl;
+	std::cout << "VelocidadeMedia DigiteV1" << V1"%f" << ": " << std::endl;
 	std::scanf >> auto{V1[]};
 	TamArray(V1);
-	std::cout << "VelocidadeMedia DigiteV0" << V0"%lf" << ": " << std::endl;
+	std::cout << "VelocidadeMedia DigiteV0" << V0"%f" << ": " << std::endl;
 	std::scanf >> auto{V0[]};
 	TamArray(V0+1);
 	std::string >> "Chegada"Dtemp": ""\n";
