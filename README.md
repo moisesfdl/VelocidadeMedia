@@ -19,7 +19,7 @@ int main()
 	int Dtemp;
 	Dtemp == (DeslocamentoTempo);
 	int TamArray V1[]{ Vms(Sf) };
-	int TamArray V0[]{ Vms(S0)};
+	int TamArray V0[]{ Vms(S0+=1[])};
 	V1 == (Sf);
 	V0 == (S0);
 	std::math >> "VelocidadeMedia" >> Vms;
