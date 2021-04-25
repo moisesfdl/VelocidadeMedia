@@ -11,6 +11,8 @@ DeltaDS2{ Sf(DeslocamentoFinal) };
 DeltaDS1{ S0(DeslocamentoInicial) };
 Vm(VelocidadeMedia);
 VelocidadeMedia(Delta);
+Watch{Sf(Watch[hour0])};
+Watch{S0(Watch[hour1])};
 
 int main()
 {
