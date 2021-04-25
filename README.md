@@ -23,7 +23,8 @@ int main()
 	int DS2;
 	DS2 {Sf};
 	int Dtemp;
-	int TamArray hour[]{Dtemp&hour0};
+	Dtemp == Watch(hour0);
+	int TamArray Watch[]{hour1,hour0};
 	int TamArray V1[]{ Vms(Sf) };
 	int TamArray V0[]{ Vms(S0+=1[])&(&&SO[])};
 	V1 == (Sf);
@@ -45,7 +46,8 @@ int main()
 	std::string >> "Chegada"Dtemp": ""\n";
 	std::cout << "VelocidadeMedia" << Dtemp << ": " << std::endl;
 	std::cout << "VelocidadeMedia" << hour1[] << ": " << std::endl;
-	std::scanf >> autoDtemp{hour0[]};
+	std::scanf >> auto{hour0[]};
+	std::scanf >> Dtemp;
 	Chegada(Dtemp);
 	for (DS i = 0; i < Vm; i++)
 	{
@@ -64,7 +66,7 @@ int main()
 		if(hour)
 		{
 		std::cout << "VelocidadeMedia" << Dtemp{hour1-hour0} << ": " << std::endl;
-		std::scanf >> hour0[];
+		std::scanf >> hour0;
 		};
 		TamArray++;
 		system("VelocidadeMediaMedia");
