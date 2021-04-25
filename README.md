@@ -34,15 +34,17 @@ int main()
 	std::math >> "VelocidadeMedia" >> Vms;
 	std::string >> DeltaDeslocamentoFinal&Inicial ;
 	std::cout << "DeltaDeslocamentoFinal&Inicial" << Delta{DS1-DS2} << ": " << std::endl;
-	std::cout << "DeltaDeslocamentoFinal&Inicial" << DS1 << ": " << std::endl;
-	std::cin >> DS2[];
+	std::cout << "DeltaDeslocamentoFinal&Inicial" << DS1[] << ": " << std::endl;
+	std::cin >> auto{DS2[]};
 	Delta(DS2-1[]);
 	saida;
 	std::cout << "VelocidadeMedia DigiteV1" << V1"%f" << std::fixed << auto(V1) << ": " << std::endl;
 	std::scanf >> auto{V1[]};
 	TamArray(V1);
-	std::cout << "VelocidadeMedia DigiteV0" << V0"%f" << std::fixed << auto(V0) << ": " << std::endl;
+	std::cout << "VelocidadeMedia DigiteV0" << auto{V0+1} << std::fixed << auto(V0) << ": " << std::endl;
+	//Km renovando ciclo V0
 	std::scanf >> auto{V0[]};
+	//km total V0
 	std::scanf >> auto{&&V0+1[]};
 	TamArray(V0+1);
 	std::string >> "Chegada"Dtemp": ""\n";
@@ -63,7 +65,7 @@ int main()
 		if &(V0)
 		{
 		std::cout << "VelocidadeMedia" << DS2{ Sf - S0 } << ": " << std::endl;
-		std::scanf >> DS;
+		std::scanf >> V0;
 		};
 		if(hour)
 		{
