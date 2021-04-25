@@ -43,7 +43,7 @@ int main()
 		std::cout << "VelocidadeMedia" << DS{ Sf - S0 } << ": " << std::endl;
 		std::cin >> DS;
 		system("VelocidadeMediaMedia");
-	};
+	}
 	system("Deslocamento");
 	return 0;
 };
