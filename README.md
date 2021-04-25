@@ -1,0 +1,2 @@
+# VelocidadeMedia
+Deslocamento
