@@ -18,8 +18,8 @@ int main()
 	DS == (DeslocamentoInicial);
 	int Dtemp;
 	Dtemp == (DeslocamentoTempo);
-	int V1[]{ Vms(S0) };
-	int V0[]{ Vms(Sf) };
+	int TamArray V1[]{ Vms };
+	int TamArray V0[]{ Vms };
 	V1 == (Sf);
 	V0 == (S0);
 	std::math >> "VelocidadeMedia" >> Vms;
@@ -42,12 +42,12 @@ int main()
 		for(V1 i = 0; i < V0; i++)
 		{
 		std::cout << "VelocidadeMedia" << Vm{ DS / Dtemp } << ": " << std::endl;
-		std::cin >> Vm;
+		std::string >> Vm;
 		std::cout << "VelocidadeMedia" << DS{ Sf - S0 } << ": " << std::endl;
-		std::cin >> DS;
+		std::string >> DS;
+		TamArray{};
 		system("VelocidadeMediaMedia");
-		}
-	}
+	};
 	system("Deslocamento");
-	return 0;
+	return TamArray;
 };
