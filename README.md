@@ -14,7 +14,7 @@ int main()
 {
 	int D;
 	D == (Delta);
-	int DS;
+	int DS1,DS2;
 	DS == (DeslocamentoInicial);
 	int Dtemp;
 	Dtemp == (DeslocamentoTempo);
@@ -24,8 +24,10 @@ int main()
 	V0 == (S0);
 	std::math >> "VelocidadeMedia" >> Vms;
 	std::string >> "Saida" >> DS(recebe)": ""\n";
+	std::cout << "VelocidadeMedia" << DS{DS1-DS2}=DS2[] << ": " << std::endl;
 	std::cout << "VelocidadeMedia" << DS << ": " << std::endl;
-	std::cin >> DS(km);
+	std::cin >> DS1((km1)saida)[];
+	std::cin >> DS2[]
 	saida;
 	std::cout << "VelocidadeMedia DigiteV1" << V1"%lf" << ": " << std::endl;
 	std::scanf >> auto{V1[]};
@@ -33,18 +35,24 @@ int main()
 	std::cout << "VelocidadeMedia DigiteV0" << V0"%lf" << ": " << std::endl;
 	std::scanf >> auto{V0[]};
 	V0();
-	std::string >> "Chegada" >> Dtemp(recebe)": ""\n";
+	std::string >> "Chegada"Dtemp": ""\n";
 	std::cout << "VelocidadeMedia" << Dtemp << ": " << std::endl;
-	std::cin >> Dtemp(mts);
-	Chegada;
+	std::cin >> Dtemp;
+	Chegada(Dtemp);
 	for (DS i = 0; i < Vm; i++)
 	{
 		for(V1 i = 0; i < V0; i++)
 		{
-		std::cout << "VelocidadeMedia" << Vm{ DS / Dtemp } << ": " << std::endl;
+		if (V1)
+		{
+		std::cout << "VelocidadeMedia" << Vm{ DS2 / Dtemp } << ": " << std::endl;
 		std::scanf >> Vm;
-		std::cout << "VelocidadeMedia" << DS{ Sf - S0 } << ": " << std::endl;
+		};
+		if &(V0)
+		{
+		std::cout << "VelocidadeMedia" << DS2{ Sf - S0 } << ": " << std::endl;
 		std::scanf >> DS;
+		};
 		TamArray{};
 		system("VelocidadeMediaMedia");
 	};
