@@ -18,7 +18,9 @@ int main()
 	Delta (DS1,DS2);
 	DS1 == (DeslocamentoInicial);
 	DS2 == (DeslocamentoFinal);
+	int DS1;
 	DS1 {S0};
+	int DS2;
 	DS2 {Sf};
 	int Dtemp;
 	int TamArray hour[]{Dtemp&hour0};
