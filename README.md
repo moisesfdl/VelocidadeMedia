@@ -42,9 +42,9 @@ int main()
 		for(V1 i = 0; i < V0; i++)
 		{
 		std::cout << "VelocidadeMedia" << Vm{ DS / Dtemp } << ": " << std::endl;
-		std::string >> Vm;
+		std::scanf >> Vm;
 		std::cout << "VelocidadeMedia" << DS{ Sf - S0 } << ": " << std::endl;
-		std::string >> DS;
+		std::scanf >> DS;
 		TamArray{};
 		system("VelocidadeMediaMedia");
 	};
