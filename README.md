@@ -6,7 +6,7 @@ Deslocamento
 #include "VelocidadeMedia"
 
 #define VelocidadeMedia;
-Delta{ Sf(DeslocamentoFinal) };
+DeltaDS2{ Sf(DeslocamentoFinal) };
 DeltaDS1{ S0(DeslocamentoInicial) };
 Vm(VelocidadeMedia);
 VelocidadeMedia(Delta);
@@ -17,17 +17,17 @@ int main()
 	int DS1,DS2;
 	DS == (DeslocamentoInicial);
 	int Dtemp;
-	Dtemp == (DeslocamentoTempo);
+	int TamArray hour[]{Dtemp&hour0};
 	int TamArray V1[]{ Vms(Sf) };
 	int TamArray V0[]{ Vms(S0+=1[])&(&&SO[])};
 	V1 == (Sf);
 	V0 == (S0);
 	std::math >> "VelocidadeMedia" >> Vms;
-	std::string >> "Saida" >> DS(recebe)": ""\n";
-	std::cout << "VelocidadeMedia" << DS{DS1-DS2}=DS2[] << ": " << std::endl;
-	std::cout << "VelocidadeMedia" << DS << ": " << std::endl;
-	std::cin >> DS1((km1)saida)[];
-	std::cin >> DS2[]
+	std::string >> DeltaDeslocamentoFinal&Inicial ;
+	std::cout << "DeltaDeslocamentoFinal&Inicial" << Delta{DS1-DS2} << ": " << std::endl;
+	std::cout << "DeltaDeslocamentoFinal&Inicial" << DS1 << ": " << std::endl;
+	std::cin >> DS2[];
+	Delta(DS2-1[]);
 	saida;
 	std::cout << "VelocidadeMedia DigiteV1" << V1"%f" << ": " << std::endl;
 	std::scanf >> auto{V1[]};
@@ -38,7 +38,8 @@ int main()
 	TamArray(V0+1);
 	std::string >> "Chegada"Dtemp": ""\n";
 	std::cout << "VelocidadeMedia" << Dtemp << ": " << std::endl;
-	std::cin >> Dtemp;
+	std::cout << "VelocidadeMedia" << hour1[] << ": " << std::endl;
+	std::scanf >> autoDtemp{hour0[]};
 	Chegada(Dtemp);
 	for (DS i = 0; i < Vm; i++)
 	{
@@ -53,6 +54,11 @@ int main()
 		{
 		std::cout << "VelocidadeMedia" << DS2{ Sf - S0 } << ": " << std::endl;
 		std::scanf >> DS;
+		};
+		if(hour)
+		{
+		std::cout << "VelocidadeMedia" << Dtemp{hour1-hour0} << ": " << std::endl;
+		std::scanf >> hour0[];
 		};
 		TamArray++;
 		system("VelocidadeMediaMedia");
