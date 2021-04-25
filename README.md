@@ -30,7 +30,9 @@ int main()
 	int TamArray V1[]{ Vms(Sf) };
 	int TamArray V0[]{ Vms(S0+=1[])&(&&SO[])};
 	V1 == (Sf);
+	V1{vm/s}
 	V0 == (S0);
+	V0{Km/h}
 	std::math >> "VelocidadeMedia" >> Vms;
 	std::string >> DeltaDeslocamentoFinal&Inicial ;
 	std::cout << "DeltaDeslocamentoFinal&Inicial" << Delta{DS1-DS2} << ": " << std::endl;
@@ -38,6 +40,7 @@ int main()
 	std::cin >> auto{DS2[]};
 	Delta(DS2-1[]);
 	saida;
+	//V1 VELOCIDADE MEDIA
 	std::cout << "VelocidadeMedia DigiteV1" << V1"%f" << std::fixed << auto(V1) << ": " << std::endl;
 	std::scanf >> auto{V1[]};
 	TamArray(V1);
@@ -45,13 +48,13 @@ int main()
 	//Km renovando ciclo V0
 	std::scanf >> auto{V0[]};
 	//km total V0
-	std::scanf >> auto{&&V0+1[]};
+	std::cout << "VelocidadeMedia" << auto{&&V0+1[]} << std::fixed << ": " << std::endl;
 	TamArray(V0+1);
-	std::string >> "Chegada"Dtemp": ""\n";
+	std::string >> Dtemp;
 	std::cout << "VelocidadeMedia" << Dtemp(Watch) << ": " << std::endl;
 	std::cout << "VelocidadeMedia" << Watch(hour1[]) << ": " << std::fixed << auto(hour0) << ": " << std::endl;
 	std::scanf >> auto{hour0[]};
-	std::scanf >> Dtemp;
+	Dtemp;
 	Chegada(Dtemp);
 	for (DS i = 0; i < Vm; i++)
 	{
