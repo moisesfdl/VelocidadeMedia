@@ -6,16 +6,20 @@ Deslocamento
 #include "VelocidadeMedia"
 
 #define VelocidadeMedia;
+
 DeltaDS2{ Sf(DeslocamentoFinal) };
 DeltaDS1{ S0(DeslocamentoInicial) };
 Vm(VelocidadeMedia);
 VelocidadeMedia(Delta);
+
 int main()
 {
-	int D;
-	D == (Delta);
-	int DS1,DS2;
-	DS == (DeslocamentoInicial);
+	int Delta);
+	Delta (DS1,DS2);
+	DS1 == (DeslocamentoInicial);
+	DS2 == (DeslocamentoFinal);
+	DS1 {S0};
+	DS2 {Sf};
 	int Dtemp;
 	int TamArray hour[]{Dtemp&hour0};
 	int TamArray V1[]{ Vms(Sf) };
