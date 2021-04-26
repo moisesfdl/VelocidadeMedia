@@ -44,7 +44,7 @@ int main()
 	std::cout << "VelocidadeMedia DigiteV1" << V1"%f" << std::fixed << auto(V1) << ": " << std::endl;
 	std::scanf >> auto{V1[]};
 	TamArray(V1);
-	std::cout << "VelocidadeMedia DigiteV0" << auto{V0+1} << std::fixed << auto(V0) << ": " << std::endl;
+	std::cout << "VelocidadeMedia DigiteV0" << auto{V0+=1} << std::fixed << auto(V0) << ": " << std::endl;
 	//Km renovando ciclo V0
 	std::scanf >> auto{V0[]};
 	//km total V0
